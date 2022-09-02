@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, sou um apaixonado por tecnologia desde muito jovem. Sou formado em Gestão da tecnologia da informação. Tenho focado nos últimos meses em conhecer sobre desenvolvimento web, e atualmente estou estudando python.
 
 <!--
 **Joaop1/Joaop1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
